@@ -1,27 +1,27 @@
 ##gff-version 3
 ##feature-ontology https://github.com/The-Sequence-Ontology/SO-Ontologies/blob/v3.1/so.obo
 # Annotated with Bakta
-# Software: v1.8.2
-# Database: v5.0, full
+# Software: v1.9.2
+# Database: v5.1, full
 # DOI: 10.1099/mgen.0.000685
 # URL: github.com/oschwengers/bakta
 ##sequence-region contig_1 1 15862
 contig_1	Bakta	region	1	15862	.	+	.	ID=contig_1;Name=contig_1
-contig_1	Prodigal	CDS	1	1446	.	+	0	ID=NLMPMM_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=NLMPMM_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,EC:2.7.8.-,KEGG:K01005,SO:0001217,UniParc:UPI0000540146,UniRef:UniRef100_Q4JZ38,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_Q8VU34;gene=cps4A
-contig_1	Prodigal	CDS	1448	2179	.	+	0	ID=NLMPMM_00010;Name=Tyrosine-protein phosphatase CpsB;locus_tag=NLMPMM_00010;product=Tyrosine-protein phosphatase CpsB;Dbxref=EC:3.1.3.48,GO:0004725,GO:0030145,GO:0045227,SO:0001217,UniParc:UPI0000540147,UniRef:UniRef100_Q4JZ37,UniRef:UniRef50_Q54518,UniRef:UniRef90_Q54518;gene=cpsB
+contig_1	Prodigal	CDS	1	1446	.	+	0	ID=NLMPMM_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=NLMPMM_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,SO:0001217,UniParc:UPI0000540146,UniRef:UniRef100_Q4JZ38,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_Q9R928;gene=cps4A
+contig_1	Prodigal	CDS	1448	2179	.	+	0	ID=NLMPMM_00010;Name=capsular polysaccharide biosynthesis protein Cps4B;locus_tag=NLMPMM_00010;product=capsular polysaccharide biosynthesis protein Cps4B;Dbxref=EC:3.1.3.48,GO:0004725,GO:0030145,GO:0045227,SO:0001217,UniParc:UPI0000540147,UniRef:UniRef100_Q4JZ37,UniRef:UniRef50_Q54518,UniRef:UniRef90_Q54518;gene=cps4B
 contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=NLMPMM_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=NLMPMM_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=RefSeq:WP_050258750.1,SO:0001217,UniParc:UPI0000540148,UniRef:UniRef100_Q4JYU0,UniRef:UniRef50_Q54519,UniRef:UniRef90_A0A081Q9W2;gene=cpsC
 contig_1	Prodigal	CDS	2891	3592	.	+	0	ID=NLMPMM_00020;Name=Tyrosine-protein kinase CpsD;locus_tag=NLMPMM_00020;product=Tyrosine-protein kinase CpsD;Dbxref=RefSeq:WP_050258749.1,SO:0001217,UniParc:UPI0000540149,UniRef:UniRef100_Q4JZ35,UniRef:UniRef50_Q54520,UniRef:UniRef90_A0A0F2DXP0;gene=cpsD
-contig_1	Prodigal	CDS	3601	4242	.	+	0	ID=NLMPMM_00025;Name=Bac-transf domain-containing protein;locus_tag=NLMPMM_00025;product=Bac-transf domain-containing protein;Dbxref=RefSeq:WP_050258748.1,SO:0001217,UniParc:UPI000054014A,UniRef:UniRef100_Q4JZ34,UniRef:UniRef50_A0A3R9L5Q0,UniRef:UniRef90_A0A1X1KJF2
+contig_1	Prodigal	CDS	3601	4242	.	+	0	ID=NLMPMM_00025;Name=Bacterial sugar transferase domain-containing protein;locus_tag=NLMPMM_00025;product=Bacterial sugar transferase domain-containing protein;Dbxref=RefSeq:WP_050258748.1,SO:0001217,UniParc:UPI000054014A,UniRef:UniRef100_Q4JZ34,UniRef:UniRef50_A0A3R9L5Q0,UniRef:UniRef90_A0A1X1KJF2
 contig_1	Prodigal	CDS	4244	5035	.	+	0	ID=NLMPMM_00030;Name=Putative glycosyl transferase;locus_tag=NLMPMM_00030;product=Putative glycosyl transferase;Dbxref=RefSeq:WP_050258747.1,SO:0001217,UniParc:UPI000054014B,UniRef:UniRef100_Q4JZ33,UniRef:UniRef50_A0A081QSA9,UniRef:UniRef90_Q4JZ33
 contig_1	Prodigal	CDS	5087	5923	.	+	0	ID=NLMPMM_00035;Name=Putative LicD-family phosphotransferase;locus_tag=NLMPMM_00035;product=Putative LicD-family phosphotransferase;Dbxref=RefSeq:WP_050258745.1,SO:0001217,UniParc:UPI000054014C,UniRef:UniRef100_Q4JZ32,UniRef:UniRef50_A0A366SPP0,UniRef:UniRef90_Q4JZ32
 contig_1	Prodigal	CDS	6017	6565	.	+	0	ID=NLMPMM_00040;Name=Capsular polysaccharide synthesis protein;locus_tag=NLMPMM_00040;product=Capsular polysaccharide synthesis protein;Dbxref=SO:0001217,UniRef:UniRef50_A0A1X1KJF8,UniRef:UniRef90_A0A1X1KJF8;pseudo=True
 contig_1	Prodigal	CDS	6895	7986	.	+	0	ID=NLMPMM_00045;Name=GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase;locus_tag=NLMPMM_00045;product=GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase;Dbxref=SO:0001217,UniParc:UPI000054014D,UniRef:UniRef100_Q4JZ31,UniRef:UniRef50_A0A3R9IYY5,UniRef:UniRef90_A0A3R9IYY5
 contig_1	Prodigal	CDS	7988	8995	.	+	0	ID=NLMPMM_00050;Name=Putative glycosyltransferase EpsJ;locus_tag=NLMPMM_00050;product=Putative glycosyltransferase EpsJ;Dbxref=SO:0001217,UniParc:UPI000054014E,UniRef:UniRef100_Q4JZ30,UniRef:UniRef50_A0A4V0BMV4,UniRef:UniRef90_A0A3R9KU69;gene=epsJ
 contig_1	Prodigal	CDS	8985	9947	.	+	0	ID=NLMPMM_00055;Name=Glycosyl transferase family protein;locus_tag=NLMPMM_00055;product=Glycosyl transferase family protein;Dbxref=RefSeq:WP_050258741.1,SO:0001217,UniParc:UPI000054014F,UniRef:UniRef100_Q4JZ29,UniRef:UniRef50_A0A0F2E1M2,UniRef:UniRef90_A0A0F2E1M2
-contig_1	Prodigal	CDS	9947	11224	.	+	0	ID=NLMPMM_00060;Name=Oligosaccharide repeat unit polymerase Wzy;locus_tag=NLMPMM_00060;product=Oligosaccharide repeat unit polymerase Wzy;Dbxref=RefSeq:WP_050258740.1,SO:0001217,UniParc:UPI0000540150,UniRef:UniRef100_Q4JZ28,UniRef:UniRef50_A0A0F2E0D2,UniRef:UniRef90_Q4JZ28
+contig_1	Prodigal	CDS	9947	11224	.	+	0	ID=NLMPMM_00060;Name=Polymerase;locus_tag=NLMPMM_00060;product=Polymerase;Dbxref=RefSeq:WP_050258740.1,SO:0001217,UniParc:UPI0000540150,UniRef:UniRef100_Q4JZ28,UniRef:UniRef50_A0A0F2E0D2,UniRef:UniRef90_A0A942X7U4
 contig_1	Prodigal	CDS	11254	12195	.	+	0	ID=NLMPMM_00065;Name=Putative glycosyl transferase;locus_tag=NLMPMM_00065;product=Putative glycosyl transferase;Dbxref=RefSeq:WP_050258739.1,SO:0001217,UniParc:UPI0000540151,UniRef:UniRef100_Q4JZ27,UniRef:UniRef50_Q4K2E9,UniRef:UniRef90_Q4JZ27
 contig_1	Prodigal	CDS	12197	13621	.	+	0	ID=NLMPMM_00070;Name=Flippase Wzx;locus_tag=NLMPMM_00070;product=Flippase Wzx;Dbxref=RefSeq:WP_050258738.1,SO:0001217,UniParc:UPI0000540152,UniRef:UniRef100_Q4JZ26,UniRef:UniRef50_K8MPI1,UniRef:UniRef90_Q4JZ26
-contig_1	Prodigal	CDS	13623	14723	.	+	0	ID=NLMPMM_00075;Name=UDP-galactopyranose mutase;locus_tag=NLMPMM_00075;product=UDP-galactopyranose mutase;Dbxref=COG:COG0562,COG:M,RefSeq:WP_050258737.1,SO:0001217,UniParc:UPI0000540153,UniRef:UniRef100_Q4JZ25,UniRef:UniRef50_P37747,UniRef:UniRef90_F8WRM7;gene=glf
+contig_1	Prodigal	CDS	13623	14723	.	+	0	ID=NLMPMM_00075;Name=UDP-galactopyranose mutase;locus_tag=NLMPMM_00075;product=UDP-galactopyranose mutase;Dbxref=COG:COG0562,COG:M,EC:5.4.99.9,GO:0008767,GO:0009273,RefSeq:WP_050258737.1,SO:0001217,UniParc:UPI0000540153,UniRef:UniRef100_Q4JZ25,UniRef:UniRef50_A0A4S2G265,UniRef:UniRef90_F8WRM7;gene=glf
 contig_1	Prodigal	CDS	14804	15862	.	+	0	ID=NLMPMM_00080;Name=Putative acetyl transferase;locus_tag=NLMPMM_00080;product=Putative acetyl transferase;Dbxref=RefSeq:WP_050148496.1,SO:0001217,UniParc:UPI00005400E2,UniRef:UniRef100_Q4JZF8,UniRef:UniRef50_A0A533HYE8,UniRef:UniRef90_Q4JZF8
 ##FASTA
 >contig_1

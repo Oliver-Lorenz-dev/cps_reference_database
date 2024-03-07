@@ -1,27 +1,27 @@
 ##gff-version 3
 ##feature-ontology https://github.com/The-Sequence-Ontology/SO-Ontologies/blob/v3.1/so.obo
 # Annotated with Bakta
-# Software: v1.8.2
-# Database: v5.0, full
+# Software: v1.9.2
+# Database: v5.1, full
 # DOI: 10.1099/mgen.0.000685
 # URL: github.com/oschwengers/bakta
 ##sequence-region contig_1 1 15662
 contig_1	Bakta	region	1	15662	.	+	.	ID=contig_1;Name=contig_1
-contig_1	Prodigal	CDS	1	1446	.	+	0	ID=NJKLLL_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=NJKLLL_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,COG:COG1316,COG:M,EC:2.7.8.-,KEGG:K01005,RefSeq:WP_050096432.1,SO:0001217,UniParc:UPI00005400E3,UniRef:UniRef100_Q4JZK4,UniRef:UniRef50_S3AVK7,UniRef:UniRef90_O54604;gene=cps4A
+contig_1	Prodigal	CDS	1	1446	.	+	0	ID=NJKLLL_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=NJKLLL_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,COG:COG1316,COG:M,RefSeq:WP_050096432.1,SO:0001217,UniParc:UPI00005400E3,UniRef:UniRef100_Q4JZK4,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_O54604;gene=cps4A
 contig_1	Prodigal	CDS	1448	2179	.	+	0	ID=NJKLLL_00010;Name=capsular polysaccharide biosynthesis protein Cps4B;locus_tag=NJKLLL_00010;product=capsular polysaccharide biosynthesis protein Cps4B;Dbxref=BlastRules:WP_000565352,RefSeq:WP_050096433.1,SO:0001217,UniParc:UPI00005400C7,UniRef:UniRef100_Q4JZK3,UniRef:UniRef90_Q9AHD4;gene=cps4B
-contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=NJKLLL_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=NJKLLL_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=RefSeq:WP_050096434.1,SO:0001217,UniParc:UPI0005E84C14,UniRef:UniRef100_Q4JZK2,UniRef:UniRef50_Q54519,UniRef:UniRef90_O86887;gene=cpsC
+contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=NJKLLL_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=NJKLLL_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=RefSeq:WP_050096434.1,SO:0001217,UniParc:UPI0005E84C14,UniRef:UniRef100_Q4JZK2,UniRef:UniRef50_Q54519,UniRef:UniRef90_A0A139PG18;gene=cpsC
 contig_1	Prodigal	CDS	2890	3579	.	+	0	ID=NJKLLL_00020;Name=Tyrosine-protein kinase CpsD;locus_tag=NJKLLL_00020;product=Tyrosine-protein kinase CpsD;Dbxref=RefSeq:WP_001142540.1,SO:0001217,UniParc:UPI000053FF74,UniRef:UniRef100_Q4JZK1,UniRef:UniRef50_Q54520,UniRef:UniRef90_O84996;gene=cpsD
-contig_1	Prodigal	CDS	3594	4961	.	+	0	ID=NJKLLL_00025;Name=Galactosyl transferase CpsE;locus_tag=NJKLLL_00025;product=Galactosyl transferase CpsE;Dbxref=KEGG:K16566,SO:0001217,UniRef:UniRef50_Q8VU30,UniRef:UniRef90_Q8VU30;gene=cpsE
-contig_1	Prodigal	CDS	5057	6001	.	+	0	ID=NJKLLL_00030;Name=Glycosyl transferase;locus_tag=NJKLLL_00030;product=Glycosyl transferase;Dbxref=SO:0001217,UniRef:UniRef50_Q8VU29,UniRef:UniRef90_Q8VU29
-contig_1	Prodigal	CDS	6011	6721	.	+	0	ID=NJKLLL_00035;Name=Putative ribitol phophotransferase;locus_tag=NJKLLL_00035;product=Putative ribitol phophotransferase;Dbxref=RefSeq:WP_224781444.1,SO:0001217,UniParc:UPI00005400CC,UniRef:UniRef100_Q4JZJ8,UniRef:UniRef50_A0A0B2XPS7,UniRef:UniRef90_Q4JZJ8
+contig_1	Prodigal	CDS	3594	4961	.	+	0	ID=NJKLLL_00025;Name=Galactosyl transferase CpsE;locus_tag=NJKLLL_00025;product=Galactosyl transferase CpsE;Dbxref=SO:0001217,UniRef:UniRef50_Q8VU30,UniRef:UniRef90_Q8VU30;gene=cpsE
+contig_1	Prodigal	CDS	5057	6001	.	+	0	ID=NJKLLL_00030;Name=Galactosyl transferase;locus_tag=NJKLLL_00030;product=Galactosyl transferase;Dbxref=SO:0001217,UniRef:UniRef50_Q8VU29,UniRef:UniRef90_Q8VU29
+contig_1	Prodigal	CDS	6011	6721	.	+	0	ID=NJKLLL_00035;Name=Putative ribitol phophotransferase;locus_tag=NJKLLL_00035;product=Putative ribitol phophotransferase;Dbxref=RefSeq:WP_224781444.1,SO:0001217,UniParc:UPI00005400CC,UniRef:UniRef100_Q4JZJ8,UniRef:UniRef50_A5LJS5,UniRef:UniRef90_Q4JZJ8
 contig_1	Prodigal	CDS	6736	7830	.	+	0	ID=NJKLLL_00040;Name=Putative glycosyl transferase;locus_tag=NJKLLL_00040;product=Putative glycosyl transferase;Dbxref=RefSeq:WP_050096437.1,SO:0001217,UniParc:UPI00005400CD,UniRef:UniRef100_Q4JZJ7,UniRef:UniRef50_Q4JZJ7,UniRef:UniRef90_Q4JZJ7
 contig_1	Prodigal	CDS	7832	8839	.	+	0	ID=NJKLLL_00045;Name=Putative glycosyl transferase;locus_tag=NJKLLL_00045;product=Putative glycosyl transferase;Dbxref=RefSeq:WP_050096438.1,SO:0001217,UniParc:UPI00005400E6,UniRef:UniRef100_Q4JZJ6,UniRef:UniRef50_Q4JZ65,UniRef:UniRef90_Q4JZJ6
 contig_1	Prodigal	CDS	8869	9804	.	+	0	ID=NJKLLL_00050;Name=Putative glycosyl transferase;locus_tag=NJKLLL_00050;product=Putative glycosyl transferase;Dbxref=SO:0001217,UniRef:UniRef50_Q4JZM9,UniRef:UniRef90_Q4JZM9
 contig_1	Prodigal	CDS	9817	10785	.	+	0	ID=NJKLLL_00055;Name=Putative glycosyl transferase;locus_tag=NJKLLL_00055;product=Putative glycosyl transferase;Dbxref=RefSeq:WP_050096440.1,SO:0001217,UniParc:UPI00005400D0,UniRef:UniRef100_Q4JZJ4,UniRef:UniRef50_A0A0F2E1M2,UniRef:UniRef90_Q4JZJ4
 contig_1	Prodigal	CDS	10786	11994	.	+	0	ID=NJKLLL_00060;Name=Oligosaccharide repeat unit polymerase Wzy;locus_tag=NJKLLL_00060;product=Oligosaccharide repeat unit polymerase Wzy;Dbxref=RefSeq:WP_050096441.1,SO:0001217,UniParc:UPI00005400E8,UniRef:UniRef100_Q4JZJ3,UniRef:UniRef50_Q4JZL0,UniRef:UniRef90_Q4JZJ3
-contig_1	Prodigal	CDS	12131	13546	.	+	0	ID=NJKLLL_00065;Name=Flippase Wzx;locus_tag=NJKLLL_00065;product=Flippase Wzx;Dbxref=RefSeq:WP_050096442.1,SO:0001217,UniParc:UPI00005400E9,UniRef:UniRef100_Q4JZJ2,UniRef:UniRef50_K8MPI1,UniRef:UniRef90_A0A4H1DYN6
+contig_1	Prodigal	CDS	12131	13546	.	+	0	ID=NJKLLL_00065;Name=Polysaccharide biosynthesis protein C-terminal domain-containing protein;locus_tag=NJKLLL_00065;product=Polysaccharide biosynthesis protein C-terminal domain-containing protein;Dbxref=RefSeq:WP_050096442.1,SO:0001217,UniParc:UPI00005400E9,UniRef:UniRef100_Q4JZJ2,UniRef:UniRef50_K8MPI1,UniRef:UniRef90_S3AVJ1
 contig_1	Prodigal	CDS	13548	14546	.	+	0	ID=NJKLLL_00070;Name=Putative acetyl transferase;locus_tag=NJKLLL_00070;product=Putative acetyl transferase;Dbxref=RefSeq:WP_050096443.1,SO:0001217,UniParc:UPI00005400EA,UniRef:UniRef100_Q4JZJ1,UniRef:UniRef50_K8MVE5,UniRef:UniRef90_O86896
-contig_1	Prodigal	CDS	14559	15662	.	+	0	ID=NJKLLL_00075;Name=UDP-galactopyranose mutase;locus_tag=NJKLLL_00075;product=UDP-galactopyranose mutase;Dbxref=RefSeq:WP_050096444.1,SO:0001217,UniParc:UPI00005400EB,UniRef:UniRef100_Q4JZJ0,UniRef:UniRef50_E0NTD3,UniRef:UniRef90_A0A0F2DGD0;gene=glf
+contig_1	Prodigal	CDS	14559	15662	.	+	0	ID=NJKLLL_00075;Name=UDP-galactopyranose mutase;locus_tag=NJKLLL_00075;product=UDP-galactopyranose mutase;Dbxref=EC:5.4.99.9,GO:0008767,GO:0009273,RefSeq:WP_050096444.1,SO:0001217,UniParc:UPI00005400EB,UniRef:UniRef100_Q4JZJ0,UniRef:UniRef50_P37747,UniRef:UniRef90_A0A0F2DGD0;gene=glf
 ##FASTA
 >contig_1
 ATGAGTAGACGTTTTAAAAAATCACGTTCACAGAAAGTGAAGCGAAGTGTTAATATAGTT

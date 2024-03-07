@@ -1,30 +1,30 @@
 ##gff-version 3
 ##feature-ontology https://github.com/The-Sequence-Ontology/SO-Ontologies/blob/v3.1/so.obo
 # Annotated with Bakta
-# Software: v1.8.2
-# Database: v5.0, full
+# Software: v1.9.2
+# Database: v5.1, full
 # DOI: 10.1099/mgen.0.000685
 # URL: github.com/oschwengers/bakta
 ##sequence-region contig_1 1 17226
 contig_1	Bakta	region	1	17226	.	+	.	ID=contig_1;Name=contig_1
-contig_1	Prodigal	CDS	1	1098	.	+	0	ID=FOFIHJ_00005;Name=UDP-galactopyranose mutase;locus_tag=FOFIHJ_00005;product=UDP-galactopyranose mutase;Dbxref=COG:COG0562,COG:M,SO:0001217,UniParc:UPI00006DDB8A,UniRef:UniRef100_Q4K079,UniRef:UniRef50_P37747,UniRef:UniRef90_F8WRM7;gene=glf
+contig_1	Prodigal	CDS	1	1098	.	+	0	ID=FOFIHJ_00005;Name=UDP-galactopyranose mutase;locus_tag=FOFIHJ_00005;product=UDP-galactopyranose mutase;Dbxref=COG:COG0562,COG:M,EC:5.4.99.9,GO:0008767,GO:0009273,SO:0001217,UniParc:UPI00006DDB8A,UniRef:UniRef100_Q4K079,UniRef:UniRef50_A0A4S2G265,UniRef:UniRef90_F8WRM7;gene=glf
 contig_1	Prodigal	CDS	1416	2096	.	+	0	ID=FOFIHJ_00010;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=FOFIHJ_00010;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=RefSeq:WP_050123803.1,SO:0001217,UniParc:UPI000054006D,UniRef:UniRef100_Q4JZ56,UniRef:UniRef50_Q4JZ56,UniRef:UniRef90_Q4JZ56;gene=cpsC
 contig_1	Prodigal	CDS	2103	2792	.	+	0	ID=FOFIHJ_00015;Name=Tyrosine-protein kinase CpsD;locus_tag=FOFIHJ_00015;product=Tyrosine-protein kinase CpsD;Dbxref=RefSeq:WP_050123802.1,SO:0001217,UniParc:UPI000054006E,UniRef:UniRef100_Q4JZ55,UniRef:UniRef50_Q54520,UniRef:UniRef90_Q4JZ55;gene=cpsD
-contig_1	Prodigal	CDS	2902	3174	.	+	0	ID=FOFIHJ_00020;Name=Mobile genetic element;locus_tag=FOFIHJ_00020;product=Mobile genetic element;Dbxref=SO:0001217,UniParc:UPI0005E82FE2,UniRef:UniRef100_A0A4L7V626,UniRef:UniRef50_A0A559A863,UniRef:UniRef90_A0A4L7V626
-contig_1	Prodigal	CDS	3391	3705	.	+	0	ID=FOFIHJ_00025;Name=IS5 family transposase ORF B;locus_tag=FOFIHJ_00025;product=IS5 family transposase ORF B;Dbxref=SO:0001217,UniParc:UPI0010EF1A70,UniRef:UniRef100_A0A4L8K7L2,UniRef:UniRef50_Q8DPN7,UniRef:UniRef90_A0A4N9BN27;gene=tnp
-contig_1	Prodigal	CDS	3935	5374	.	+	0	ID=FOFIHJ_00030;Name=Integral membrane regulatory protein Wzg;locus_tag=FOFIHJ_00030;product=Integral membrane regulatory protein Wzg;Dbxref=EC:2.7.8.-,KEGG:K01005,SO:0001217,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_Q4K075
-contig_1	Prodigal	CDS	5376	6107	.	+	0	ID=FOFIHJ_00035;Name=Tyrosine-protein phosphatase;locus_tag=FOFIHJ_00035;product=Tyrosine-protein phosphatase;Dbxref=RefSeq:WP_050123407.1,SO:0001217,UniParc:UPI0005E4BA19,UniRef:UniRef100_Q4JZ53,UniRef:UniRef50_Q54518,UniRef:UniRef90_Q4JZ53
-contig_1	Prodigal	CDS	6126	6713	.	+	0	ID=FOFIHJ_00040;Name=Putative galactosyltransferase;locus_tag=FOFIHJ_00040;product=Putative galactosyltransferase;Dbxref=RefSeq:WP_050123411.1,SO:0001217,UniParc:UPI0000540071,UniRef:UniRef100_Q4K061,UniRef:UniRef50_A0A069RCC6,UniRef:UniRef90_Q4K061
+contig_1	Prodigal	CDS	2902	3174	.	+	0	ID=FOFIHJ_00020;Name=Mobile genetic element;locus_tag=FOFIHJ_00020;product=Mobile genetic element;Dbxref=SO:0001217,UniParc:UPI0005E82FE2,UniRef:UniRef100_A0A4L7V626,UniRef:UniRef50_A0A4G4SY52,UniRef:UniRef90_A0A4L7V626
+contig_1	Prodigal	CDS	3391	3705	.	+	0	ID=FOFIHJ_00025;Name=IS5 family transposase ORF B;locus_tag=FOFIHJ_00025;product=IS5 family transposase ORF B;Dbxref=SO:0001217,UniParc:UPI0010EF1A70,UniRef:UniRef100_A0A4L8K7L2,UniRef:UniRef50_A0A4N9BSH4,UniRef:UniRef90_A0A4N9BN27;gene=tnp
+contig_1	Prodigal	CDS	3935	5374	.	+	0	ID=FOFIHJ_00030;Name=Integral membrane regulatory protein Wzg;locus_tag=FOFIHJ_00030;product=Integral membrane regulatory protein Wzg;Dbxref=SO:0001217,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_Q4K075
+contig_1	Prodigal	CDS	5376	6107	.	+	0	ID=FOFIHJ_00035;Name=capsular polysaccharide biosynthesis protein Cps4B;locus_tag=FOFIHJ_00035;product=capsular polysaccharide biosynthesis protein Cps4B;Dbxref=RefSeq:WP_050123407.1,SO:0001217,UniParc:UPI0005E4BA19,UniRef:UniRef100_Q4JZ53,UniRef:UniRef50_Q54518,UniRef:UniRef90_Q4JZ53;gene=cps4B
+contig_1	Prodigal	CDS	6126	6713	.	+	0	ID=FOFIHJ_00040;Name=Putative galactosyltransferase;locus_tag=FOFIHJ_00040;product=Putative galactosyltransferase;Dbxref=RefSeq:WP_050123411.1,SO:0001217,UniParc:UPI0000540071,UniRef:UniRef100_Q4K061,UniRef:UniRef50_A0A0R3JY71,UniRef:UniRef90_Q4K061
 contig_1	Prodigal	CDS	6726	7856	.	+	0	ID=FOFIHJ_00045;Name=Exopolysaccharide biosynthesis protein%2C glycosyltransferase;locus_tag=FOFIHJ_00045;product=Exopolysaccharide biosynthesis protein%2C glycosyltransferase;Dbxref=RefSeq:WP_050123416.1,SO:0001217,UniParc:UPI0000540072,UniRef:UniRef100_Q4K060,UniRef:UniRef50_Q4K060,UniRef:UniRef90_Q4K060
 contig_1	Prodigal	CDS	7874	9283	.	+	0	ID=FOFIHJ_00050;Name=O-antigen polysaccharide polymerase Wzy;locus_tag=FOFIHJ_00050;product=O-antigen polysaccharide polymerase Wzy;Dbxref=RefSeq:WP_050123420.1,SO:0001217,UniParc:UPI00067B0C8B,UniRef:UniRef100_UPI00067B0C8B,UniRef:UniRef50_A0A4G4JSS9,UniRef:UniRef90_A0A4G4JSS9
-contig_1	Prodigal	CDS	9280	10047	.	+	0	ID=FOFIHJ_00055;Name=Glycosyl transferase%2C group 2 family protein%2Cputative;locus_tag=FOFIHJ_00055;product=Glycosyl transferase%2C group 2 family protein%2Cputative;Dbxref=EC:2.4.-.-,KEGG:K19423,SO:0001217,UniParc:UPI0000540074,UniRef:UniRef100_Q4K058,UniRef:UniRef50_A0A0T8TX01,UniRef:UniRef90_A0A0T8TX01
+contig_1	Prodigal	CDS	9280	10047	.	+	0	ID=FOFIHJ_00055;Name=Glycosyl transferase%2C group 2 family protein%2Cputative;locus_tag=FOFIHJ_00055;product=Glycosyl transferase%2C group 2 family protein%2Cputative;Dbxref=SO:0001217,UniParc:UPI0000540074,UniRef:UniRef100_Q4K058,UniRef:UniRef50_A0A0T8TX01,UniRef:UniRef90_A0A0T8TX01
 contig_1	Prodigal	CDS	10053	11228	.	+	0	ID=FOFIHJ_00060;Name=Putative glycosyl transferase;locus_tag=FOFIHJ_00060;product=Putative glycosyl transferase;Dbxref=RefSeq:WP_191898987.1,SO:0001217,UniParc:UPI0005E54BDB,UniRef:UniRef100_Q4K057,UniRef:UniRef50_Q4K057,UniRef:UniRef90_Q4K057
-contig_1	Prodigal	CDS	11225	12190	.	+	0	ID=FOFIHJ_00065;Name=Glycosyltransferase;locus_tag=FOFIHJ_00065;product=Glycosyltransferase;Dbxref=RefSeq:WP_150819721.1,SO:0001217,UniParc:UPI0000540076,UniRef:UniRef100_Q4K056,UniRef:UniRef50_A0A0T8FBR4,UniRef:UniRef90_A0A0T8FBR4
+contig_1	Prodigal	CDS	11225	12190	.	+	0	ID=FOFIHJ_00065;Name=Glycosyl transferase;locus_tag=FOFIHJ_00065;product=Glycosyl transferase;Dbxref=RefSeq:WP_150819721.1,SO:0001217,UniParc:UPI0000540076,UniRef:UniRef100_Q4K056,UniRef:UniRef50_A0A0T8FBR4,UniRef:UniRef90_A0A0T8FBR4
 contig_1	Prodigal	CDS	12187	12294	.	+	0	ID=FOFIHJ_00070;Name=hypothetical protein;locus_tag=FOFIHJ_00070;product=hypothetical protein
-contig_1	Prodigal	CDS	12876	14291	.	+	0	ID=FOFIHJ_00075;Name=Flippase Wzx;locus_tag=FOFIHJ_00075;product=Flippase Wzx;Dbxref=SO:0001217,UniParc:UPI0000540077,UniRef:UniRef100_Q4K055,UniRef:UniRef50_Q4K055,UniRef:UniRef90_Q4K055
+contig_1	Prodigal	CDS	12876	14291	.	+	0	ID=FOFIHJ_00075;Name=Exopolysaccharide biosynthesis protein;locus_tag=FOFIHJ_00075;product=Exopolysaccharide biosynthesis protein;Dbxref=SO:0001217,UniParc:UPI0000540077,UniRef:UniRef100_Q4K055,UniRef:UniRef50_A0A4L8K7N8,UniRef:UniRef90_A0A4L8K7N8
 contig_1	Prodigal	CDS	14264	14926	.	+	0	ID=FOFIHJ_00080;Name=Putative capsular polysaccharide biosynthesis protein;locus_tag=FOFIHJ_00080;product=Putative capsular polysaccharide biosynthesis protein;Dbxref=RefSeq:WP_050292519.1,SO:0001217,UniParc:UPI0000540078,UniRef:UniRef100_Q4JZ44,UniRef:UniRef50_A0A0T8FC20,UniRef:UniRef90_A0A0T8FC20
 contig_1	Prodigal	CDS	14916	15998	.	+	0	ID=FOFIHJ_00085;Name=Nucleotide sugar epimerase;locus_tag=FOFIHJ_00085;product=Nucleotide sugar epimerase;Dbxref=EC:5.1.3.6,KEGG:K08679,RefSeq:WP_050123444.1,SO:0001217,UniParc:UPI0000540079,UniRef:UniRef100_Q4JZ43,UniRef:UniRef50_Q4JZ43,UniRef:UniRef90_Q4JZ43
-contig_1	Prodigal	CDS	16000	17226	.	+	0	ID=FOFIHJ_00090;Name=UDP-glucose 6-dehydrogenase;locus_tag=FOFIHJ_00090;product=UDP-glucose 6-dehydrogenase;Dbxref=RefSeq:WP_050123446.1,SO:0001217,UniParc:UPI0005DC9649,UniRef:UniRef100_Q4JZ42,UniRef:UniRef50_A0A173T344,UniRef:UniRef90_Q4JZ42
+contig_1	Prodigal	CDS	16000	17226	.	+	0	ID=FOFIHJ_00090;Name=UDP-glucose 6-dehydrogenase;locus_tag=FOFIHJ_00090;product=UDP-glucose 6-dehydrogenase;Dbxref=RefSeq:WP_050123446.1,SO:0001217,UniParc:UPI0005DC9649,UniRef:UniRef100_Q4JZ42,UniRef:UniRef50_A0A448L3W8,UniRef:UniRef90_Q4JZ42
 ##FASTA
 >contig_1
 ATGTACGACTATCTAATCGTTGGTGCTGGTTTGTCGGGAGCAATTTTTGCTTATGAAGCA

@@ -1,29 +1,29 @@
 ##gff-version 3
 ##feature-ontology https://github.com/The-Sequence-Ontology/SO-Ontologies/blob/v3.1/so.obo
 # Annotated with Bakta
-# Software: v1.8.2
-# Database: v5.0, full
+# Software: v1.9.2
+# Database: v5.1, full
 # DOI: 10.1099/mgen.0.000685
 # URL: github.com/oschwengers/bakta
 ##sequence-region contig_1 1 15224
 contig_1	Bakta	region	1	15224	.	+	.	ID=contig_1;Name=contig_1
-contig_1	Prodigal	CDS	1	1446	.	+	0	ID=CBEBPM_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=CBEBPM_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,COG:COG1316,COG:M,EC:2.7.8.-,KEGG:K01005,RefSeq:WP_050119693.1,SO:0001217,UniParc:UPI000053FE92,UniRef:UniRef100_Q4K2B1,UniRef:UniRef50_S3AVK7,UniRef:UniRef90_O54604;gene=cps4A
+contig_1	Prodigal	CDS	1	1446	.	+	0	ID=CBEBPM_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=CBEBPM_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,COG:COG1316,COG:M,RefSeq:WP_050119693.1,SO:0001217,UniParc:UPI000053FE92,UniRef:UniRef100_Q4K2B1,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_O54604;gene=cps4A
 contig_1	Prodigal	CDS	1448	2179	.	+	0	ID=CBEBPM_00010;Name=capsular polysaccharide biosynthesis protein Cps4B;locus_tag=CBEBPM_00010;product=capsular polysaccharide biosynthesis protein Cps4B;Dbxref=BlastRules:WP_000565352,RefSeq:WP_044789192.1,SO:0001217,UniParc:UPI000053FE93,UniRef:UniRef100_Q4K2B0,UniRef:UniRef90_Q9AHD4;gene=cps4B
-contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=CBEBPM_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=CBEBPM_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=RefSeq:WP_050119691.1,SO:0001217,UniParc:UPI0005DFA0E2,UniRef:UniRef100_Q4K2A9,UniRef:UniRef50_Q54519,UniRef:UniRef90_A0A139M948;gene=cpsC
+contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=CBEBPM_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=CBEBPM_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=RefSeq:WP_050119691.1,SO:0001217,UniParc:UPI0005DFA0E2,UniRef:UniRef100_Q4K2A9,UniRef:UniRef50_Q54519,UniRef:UniRef90_A0A139PG18;gene=cpsC
 contig_1	Prodigal	CDS	2890	3573	.	+	0	ID=CBEBPM_00020;Name=Tyrosine-protein kinase CpsD;locus_tag=CBEBPM_00020;product=Tyrosine-protein kinase CpsD;Dbxref=RefSeq:WP_050119690.1,SO:0001217,UniParc:UPI000053FE95,UniRef:UniRef100_Q4K2A8,UniRef:UniRef50_Q54520,UniRef:UniRef90_Q8VU31;gene=cpsD
-contig_1	Prodigal	CDS	3628	4263	.	+	0	ID=CBEBPM_00025;Name=Putative sugar transferase EpsL;locus_tag=CBEBPM_00025;product=Putative sugar transferase EpsL;Dbxref=RefSeq:WP_115271682.1,SO:0001217,UniParc:UPI000053FE96,UniRef:UniRef100_Q4K2B6,UniRef:UniRef50_G5JUJ3,UniRef:UniRef90_A0A428G3F7;gene=epsL
+contig_1	Prodigal	CDS	3628	4263	.	+	0	ID=CBEBPM_00025;Name=Putative sugar transferase EpsL;locus_tag=CBEBPM_00025;product=Putative sugar transferase EpsL;Dbxref=RefSeq:WP_115271682.1,SO:0001217,UniParc:UPI000053FE96,UniRef:UniRef100_Q4K2B6,UniRef:UniRef50_J0YA51,UniRef:UniRef90_A0A428G3F7;gene=epsL
 contig_1	Prodigal	CDS	4480	5274	.	+	0	ID=CBEBPM_00030;Name=DUF4422 domain-containing protein;locus_tag=CBEBPM_00030;product=DUF4422 domain-containing protein;Dbxref=SO:0001217,UniParc:UPI000053FE97,UniRef:UniRef100_Q4K2B5,UniRef:UniRef50_A5YTU1,UniRef:UniRef90_A0A3R9I3H6
-contig_1	Prodigal	CDS	5278	6528	.	+	0	ID=CBEBPM_00035;Name=EpsG family protein;locus_tag=CBEBPM_00035;product=EpsG family protein;Dbxref=SO:0001217,UniParc:UPI000053FE98,UniRef:UniRef100_Q4K2B4,UniRef:UniRef50_A0A139NX98,UniRef:UniRef90_A0A4J2CRG0;gene=epsG
-contig_1	Prodigal	CDS	6568	7473	.	+	0	ID=CBEBPM_00040;Name=Putative LicD-family phosphotransferase;locus_tag=CBEBPM_00040;product=Putative LicD-family phosphotransferase;Dbxref=EC:2.7.8.-,KEGG:K07271,SO:0001217,UniRef:UniRef50_A0A1C6I6N8,UniRef:UniRef90_Q4K2A4
+contig_1	Prodigal	CDS	5278	6528	.	+	0	ID=CBEBPM_00035;Name=Oligosaccharide repeat unit polymerase Wzy;locus_tag=CBEBPM_00035;product=Oligosaccharide repeat unit polymerase Wzy;Dbxref=SO:0001217,UniParc:UPI000053FE98,UniRef:UniRef100_Q4K2B4,UniRef:UniRef50_A0A139NX98,UniRef:UniRef90_A0A4J2CRG0
+contig_1	Prodigal	CDS	6568	7473	.	+	0	ID=CBEBPM_00040;Name=LicD family protein;locus_tag=CBEBPM_00040;product=LicD family protein;Dbxref=SO:0001217,UniRef:UniRef50_A0A942X7W7,UniRef:UniRef90_A0A942X7W7;gene=licD
 contig_1	Prodigal	CDS	7511	8596	.	+	0	ID=CBEBPM_00045;Name=Glycosyltransferase family 4 protein;locus_tag=CBEBPM_00045;product=Glycosyltransferase family 4 protein;Dbxref=SO:0001217,UniParc:UPI000053FE9A,UniRef:UniRef100_Q4K2C9,UniRef:UniRef50_A0A3R9IYY5,UniRef:UniRef90_A0A2N6PPJ1
-contig_1	Prodigal	CDS	8605	8925	.	+	0	ID=CBEBPM_00050;Name=glycosyltransferase family 2 protein;locus_tag=CBEBPM_00050;product=glycosyltransferase family 2 protein;Dbxref=RefSeq:WP_224757546.1,SO:0001217,UniParc:UPI000598DBDE,UniRef:UniRef100_UPI000598DBDE,UniRef:UniRef50_UPI000598DBDE,UniRef:UniRef90_UPI000598DBDE
+contig_1	Prodigal	CDS	8605	8925	.	+	0	ID=CBEBPM_00050;Name=glycosyltransferase family A protein;locus_tag=CBEBPM_00050;product=glycosyltransferase family A protein;Dbxref=RefSeq:WP_224757546.1,SO:0001217,UniParc:UPI000598DBDE,UniRef:UniRef100_UPI000598DBDE,UniRef:UniRef50_UPI000598DBDE,UniRef:UniRef90_UPI000598DBDE
 contig_1	Prodigal	CDS	8891	9409	.	+	0	ID=CBEBPM_00055;Name=hypothetical protein;locus_tag=CBEBPM_00055;product=hypothetical protein;Dbxref=SO:0001217,UniRef:UniRef50_UPI001CD82CF0,UniRef:UniRef90_UPI001CD82CF0
 contig_1	Prodigal	CDS	9505	10458	.	+	0	ID=CBEBPM_00060;Name=Glycosyl transferase;locus_tag=CBEBPM_00060;product=Glycosyl transferase;Dbxref=SO:0001217,UniRef:UniRef50_A0A0F2E1M2,UniRef:UniRef90_A0A1X1KNY2
 contig_1	Prodigal	CDS	10521	10610	.	+	0	ID=CBEBPM_00065;Name=hypothetical protein;locus_tag=CBEBPM_00065;product=hypothetical protein
-contig_1	Prodigal	CDS	10612	12027	.	+	0	ID=CBEBPM_00070;Name=Polysacc-synt-C domain-containing protein;locus_tag=CBEBPM_00070;product=Polysacc-synt-C domain-containing protein;Dbxref=SO:0001217,UniParc:UPI000053FE9D,UniRef:UniRef100_Q4K2C6,UniRef:UniRef50_K8MPI1,UniRef:UniRef90_S3AVJ1
-contig_1	Prodigal	CDS	12029	13027	.	+	0	ID=CBEBPM_00075;Name=Acyl-transf-3 domain-containing protein;locus_tag=CBEBPM_00075;product=Acyl-transf-3 domain-containing protein;Dbxref=SO:0001217,UniParc:UPI000053FE9E,UniRef:UniRef100_Q4K2C5,UniRef:UniRef50_K8MVE5,UniRef:UniRef90_E6KKT0
-contig_1	Prodigal	CDS	13041	14144	.	+	0	ID=CBEBPM_00080;Name=UDP-galactopyranose mutase;locus_tag=CBEBPM_00080;product=UDP-galactopyranose mutase;Dbxref=SO:0001217,UniParc:UPI000053FE9F,UniRef:UniRef100_Q4K2C4,UniRef:UniRef50_P37747,UniRef:UniRef90_A0A0F2E5P8;gene=glf
-contig_1	Prodigal	CDS	14172	15224	.	+	0	ID=CBEBPM_00085;Name=Beta-1%2C6-galactofuranosyltransferase WbbI;locus_tag=CBEBPM_00085;product=Beta-1%2C6-galactofuranosyltransferase WbbI;Dbxref=SO:0001217,UniParc:UPI000053FEA0,UniRef:UniRef100_Q4K2C3,UniRef:UniRef50_A0A0F2CQE1,UniRef:UniRef90_A0A3R9MXF6;gene=wbbI
+contig_1	Prodigal	CDS	10612	12027	.	+	0	ID=CBEBPM_00070;Name=Repeating unit transportor flippase Wzx;locus_tag=CBEBPM_00070;product=Repeating unit transportor flippase Wzx;Dbxref=SO:0001217,UniParc:UPI000053FE9D,UniRef:UniRef100_Q4K2C6,UniRef:UniRef50_K8MPI1,UniRef:UniRef90_F2QF81
+contig_1	Prodigal	CDS	12029	13027	.	+	0	ID=CBEBPM_00075;Name=Acyltransferase 3 domain-containing protein;locus_tag=CBEBPM_00075;product=Acyltransferase 3 domain-containing protein;Dbxref=SO:0001217,UniParc:UPI000053FE9E,UniRef:UniRef100_Q4K2C5,UniRef:UniRef50_K8MVE5,UniRef:UniRef90_E6KKT0
+contig_1	Prodigal	CDS	13041	14144	.	+	0	ID=CBEBPM_00080;Name=UDP-galactopyranose mutase;locus_tag=CBEBPM_00080;product=UDP-galactopyranose mutase;Dbxref=EC:5.4.99.9,GO:0008767,GO:0009273,SO:0001217,UniParc:UPI000053FE9F,UniRef:UniRef100_Q4K2C4,UniRef:UniRef50_A0A6I4Q4C7,UniRef:UniRef90_A0A0F2E5P8;gene=glf
+contig_1	Prodigal	CDS	14172	15224	.	+	0	ID=CBEBPM_00085;Name=Beta-1%2C6-galactofuranosyltransferase WbbI;locus_tag=CBEBPM_00085;product=Beta-1%2C6-galactofuranosyltransferase WbbI;Dbxref=SO:0001217,UniParc:UPI000053FEA0,UniRef:UniRef100_Q4K2C3,UniRef:UniRef50_A0A0F2CQE1,UniRef:UniRef90_A0A3R9J558;gene=wbbI
 ##FASTA
 >contig_1
 ATGAGTAGACGTTTTAAAAAATCACGTTCACAGAAAGTGAAGCGAAGTGTTAATATCGTT

@@ -1,26 +1,26 @@
 ##gff-version 3
 ##feature-ontology https://github.com/The-Sequence-Ontology/SO-Ontologies/blob/v3.1/so.obo
 # Annotated with Bakta
-# Software: v1.8.2
-# Database: v5.0, full
+# Software: v1.9.2
+# Database: v5.1, full
 # DOI: 10.1099/mgen.0.000685
 # URL: github.com/oschwengers/bakta
 ##sequence-region contig_1 1 15152
 contig_1	Bakta	region	1	15152	.	+	.	ID=contig_1;Name=contig_1
-contig_1	Prodigal	CDS	1	1446	.	+	0	ID=OAOGGB_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=OAOGGB_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,EC:2.7.8.-,KEGG:K01005,SO:0001217,UniParc:UPI00005401AF,UniRef:UniRef100_Q4JYL1,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_Q8VU34;gene=cps4A
+contig_1	Prodigal	CDS	1	1446	.	+	0	ID=OAOGGB_00005;Name=capsular polysaccharide biosynthesis protein Cps4A;locus_tag=OAOGGB_00005;product=capsular polysaccharide biosynthesis protein Cps4A;Dbxref=BlastRules:WP_000091082,SO:0001217,UniParc:UPI00005401AF,UniRef:UniRef100_Q4JYL1,UniRef:UniRef50_G3G7D5,UniRef:UniRef90_Q9R928;gene=cps4A
 contig_1	Prodigal	CDS	1448	2179	.	+	0	ID=OAOGGB_00010;Name=capsular polysaccharide biosynthesis protein Cps4B;locus_tag=OAOGGB_00010;product=capsular polysaccharide biosynthesis protein Cps4B;Dbxref=BlastRules:WP_000565352,EC:3.1.3.48,GO:0004725,GO:0030145,GO:0045227,SO:0001217,UniParc:UPI00005401B0,UniRef:UniRef100_Q4JYL0,UniRef:UniRef50_Q54518,UniRef:UniRef90_Q54518;gene=cps4B
-contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=OAOGGB_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=OAOGGB_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=SO:0001217,UniRef:UniRef50_Q54519,UniRef:UniRef90_A0A6G2DVY2;gene=cpsC
+contig_1	Prodigal	CDS	2188	2880	.	+	0	ID=OAOGGB_00015;Name=Capsular polysaccharide biosynthesis protein CpsC;locus_tag=OAOGGB_00015;product=Capsular polysaccharide biosynthesis protein CpsC;Dbxref=SO:0001217,UniRef:UniRef50_Q54519,UniRef:UniRef90_A0A1A9BJK4;gene=cpsC
 contig_1	Prodigal	CDS	2890	3573	.	+	0	ID=OAOGGB_00020;Name=Tyrosine-protein kinase CpsD;locus_tag=OAOGGB_00020;product=Tyrosine-protein kinase CpsD;Dbxref=SO:0001217,UniParc:UPI00005401B2,UniRef:UniRef100_Q4JYK8,UniRef:UniRef50_Q54520,UniRef:UniRef90_O84996;gene=cpsD
-contig_1	Prodigal	CDS	3631	4266	.	+	0	ID=OAOGGB_00025;Name=Putative sugar transferase EpsL;locus_tag=OAOGGB_00025;product=Putative sugar transferase EpsL;Dbxref=SO:0001217,UniParc:UPI00005401B3,UniRef:UniRef100_Q4JYK7,UniRef:UniRef50_G5JUJ3,UniRef:UniRef90_A0A428G3F7;gene=epsL
+contig_1	Prodigal	CDS	3631	4266	.	+	0	ID=OAOGGB_00025;Name=Putative sugar transferase EpsL;locus_tag=OAOGGB_00025;product=Putative sugar transferase EpsL;Dbxref=SO:0001217,UniParc:UPI00005401B3,UniRef:UniRef100_Q4JYK7,UniRef:UniRef50_J0YA51,UniRef:UniRef90_A0A428G3F7;gene=epsL
 contig_1	Prodigal	CDS	4484	5278	.	+	0	ID=OAOGGB_00030;Name=DUF4422 domain-containing protein;locus_tag=OAOGGB_00030;product=DUF4422 domain-containing protein;Dbxref=SO:0001217,UniParc:UPI00005401B4,UniRef:UniRef100_Q4JYK6,UniRef:UniRef50_A5YTU1,UniRef:UniRef90_A0A3R9I3H6
-contig_1	Prodigal	CDS	5387	6217	.	+	0	ID=OAOGGB_00035;Name=Putative LicD-family phosphotransferase;locus_tag=OAOGGB_00035;product=Putative LicD-family phosphotransferase;Dbxref=SO:0001217,UniParc:UPI00005401B5,UniRef:UniRef100_Q4JYK5,UniRef:UniRef50_A0A366SPP0,UniRef:UniRef90_Q4JYI7
+contig_1	Prodigal	CDS	5387	6217	.	+	0	ID=OAOGGB_00035;Name=Putative LicD-family phosphotransferase;locus_tag=OAOGGB_00035;product=Putative LicD-family phosphotransferase;Dbxref=SO:0001217,UniParc:UPI00005401B5,UniRef:UniRef100_Q4JYK5,UniRef:UniRef50_A0A366SPP0,UniRef:UniRef90_Q4JYK5
 contig_1	Prodigal	CDS	6231	7334	.	+	0	ID=OAOGGB_00040;Name=Putative glycosyl transferase;locus_tag=OAOGGB_00040;product=Putative glycosyl transferase;Dbxref=SO:0001217,UniParc:UPI00005401B6,UniRef:UniRef100_Q4JYK4,UniRef:UniRef50_A0A3R9IYY5,UniRef:UniRef90_Q4JYK4
 contig_1	Prodigal	CDS	7336	8436	.	+	0	ID=OAOGGB_00045;Name=Putative glycosyl transferase;locus_tag=OAOGGB_00045;product=Putative glycosyl transferase;Dbxref=SO:0001217,UniParc:UPI00005401B7,UniRef:UniRef100_Q4JYK3,UniRef:UniRef50_A0A1X1KJ54,UniRef:UniRef90_Q4JYK3
 contig_1	Prodigal	CDS	8440	9528	.	+	0	ID=OAOGGB_00050;Name=Oligosaccharide repeat unit polymerase Wzy;locus_tag=OAOGGB_00050;product=Oligosaccharide repeat unit polymerase Wzy;Dbxref=SO:0001217,UniParc:UPI00005401B8,UniRef:UniRef100_Q4JYK2,UniRef:UniRef50_A0A139PKM1,UniRef:UniRef90_Q4JYK2
 contig_1	Prodigal	CDS	9528	10403	.	+	0	ID=OAOGGB_00055;Name=Putative glycosyl transferase;locus_tag=OAOGGB_00055;product=Putative glycosyl transferase;Dbxref=SO:0001217,UniParc:UPI00005401B9,UniRef:UniRef100_Q4JYK1,UniRef:UniRef50_A0A428HTX1,UniRef:UniRef90_Q4JYK1
 contig_1	Prodigal	CDS	10545	11543	.	+	0	ID=OAOGGB_00060;Name=Putative glycosyl transferase;locus_tag=OAOGGB_00060;product=Putative glycosyl transferase;Dbxref=SO:0001217,UniParc:UPI00005401BA,UniRef:UniRef100_Q4JYK0,UniRef:UniRef50_M1VDE9,UniRef:UniRef90_Q4JYK0
 contig_1	Prodigal	CDS	11540	12973	.	+	0	ID=OAOGGB_00065;Name=Flippase Wzx;locus_tag=OAOGGB_00065;product=Flippase Wzx;Dbxref=SO:0001217,UniParc:UPI00005401BB,UniRef:UniRef100_Q4JYJ9,UniRef:UniRef50_M1V3H0,UniRef:UniRef90_Q4JYJ9
-contig_1	Prodigal	CDS	13028	14137	.	+	0	ID=OAOGGB_00070;Name=UDP-galactopyranose mutase;locus_tag=OAOGGB_00070;product=UDP-galactopyranose mutase;Dbxref=COG:COG0562,COG:M,SO:0001217,UniParc:UPI00005401BC,UniRef:UniRef100_Q4JYJ8,UniRef:UniRef50_P37747,UniRef:UniRef90_F8WRM7;gene=glf
+contig_1	Prodigal	CDS	13028	14137	.	+	0	ID=OAOGGB_00070;Name=UDP-galactopyranose mutase;locus_tag=OAOGGB_00070;product=UDP-galactopyranose mutase;Dbxref=COG:COG0562,COG:M,EC:5.4.99.9,GO:0008767,GO:0009273,SO:0001217,UniParc:UPI00005401BC,UniRef:UniRef100_Q4JYJ8,UniRef:UniRef50_A0A4S2G265,UniRef:UniRef90_F8WRM7;gene=glf
 contig_1	Prodigal	CDS	14124	15152	.	+	0	ID=OAOGGB_00075;Name=Putative acetyl transferase;locus_tag=OAOGGB_00075;product=Putative acetyl transferase;Dbxref=SO:0001217,UniParc:UPI00005401BD,UniRef:UniRef100_Q4JYJ7,UniRef:UniRef50_Q8KWN9,UniRef:UniRef90_A0A4V0BNS0
 ##FASTA
 >contig_1
